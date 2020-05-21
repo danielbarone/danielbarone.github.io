@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Antibiogram'
-date: 2019-10-04 00:00:00
+date: 2019-10-04 15:56:00
 categories: development design hackathon
 tags: React InterSystems API
 featured_image: '/img/posts/techcrunch.png'

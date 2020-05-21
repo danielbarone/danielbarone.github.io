@@ -2,7 +2,7 @@
 layout: inner
 position: right
 title: 'Clinical Lab CRM'
-date: 2019-10-04 00:00:00
+date: 2020-04-20 15:56:00
 categories: development design
 tags: Dynamics365 .NET C# Javascript Stripe
 featured_image: '/img/posts/clinical-lab-crm.png'

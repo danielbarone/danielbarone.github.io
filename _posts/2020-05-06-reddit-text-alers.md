@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Reddit Alerts'
-date: 2020-05-06 00:00:00
+date: 2020-05-06 15:56:00
 categories: development design
 tags: Python Twilio Slack API
 featured_image: '/img/posts/reddit-text-alerts.png'
