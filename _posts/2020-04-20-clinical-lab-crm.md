@@ -3,7 +3,7 @@ layout: inner
 position: right
 title: 'Clinical Lab CRM'
 date: 2020-04-20 15:56:00
-categories: development design
+# categories: development design
 tags: Dynamics365 .NET C# Javascript Stripe
 featured_image: '/img/posts/clinical-lab-crm.png'
 project_link: 'https://smoothstack.github.io/'
