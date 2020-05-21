@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Hello. I'm Daniel Barone.</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-05-21T06:26:15-04:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Doniel Barone</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Reddit Alerts</title>
+   <link href="http://localhost:4000/development/design/2020/05/05/reddit-text-alers.html"/>
+   <updated>2020-05-05T20:00:00-04:00</updated>
+   <id>http://localhost:4000/development/design/2020/05/05/reddit-text-alers</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Clinical Lab CRM</title>
+   <link href="http://localhost:4000/development/design/2019/10/03/clinical-lab-crm.html"/>
+   <updated>2019-10-03T20:00:00-04:00</updated>
+   <id>http://localhost:4000/development/design/2019/10/03/clinical-lab-crm</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Antibiogram</title>
+   <link href="http://localhost:4000/development/design/hackathon/2019/10/03/techcrunch.html"/>
+   <updated>2019-10-03T20:00:00-04:00</updated>
+   <id>http://localhost:4000/development/design/hackathon/2019/10/03/techcrunch</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+
+</feed>

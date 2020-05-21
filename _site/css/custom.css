@@ -1,0 +1,39 @@
+img.img-radius {
+    border: solid 1px #ddd;
+    border-radius: 3px;
+}
+
+.modal-link {
+    cursor: pointer;
+}
+
+.modal-link-color {
+    color: #88C0D0;
+}
+
+.in-progress-container {
+    background-color: #2E3440;
+    color: #ECEFF4;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.in-progress-header {
+    display: flex;
+    align-items: center;
+}
+
+.in-progress-i i {
+    color: #BF616A;
+    font-size: 2.5em;
+    margin-right: 15px;
+    margin-top: 8px;
+}
+
+.in-progress-container div p {
+    margin-left: 2.5em;
+}
