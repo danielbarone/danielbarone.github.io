@@ -17,7 +17,7 @@ title: "Hello. I'm Daniel Barone."
 email: 'dev.danielbarone@gmail.com'
 description: "I'm a software developer from California currently working in Washnington, D.C. Please feel free to"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://danielbarone.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://danielbarone.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 instagram_username: 'daniel_cb_'
 github_username: 'danielbarone'
 medium_username: '@dev.danielbarone'
